@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+# grihf-frontend_capstone_starter_code
+frontend_capstone_starter_code
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Doctor-Appointment-Medical-System
+The Online Doctor Appointment and Medicine System is a web-based platform that simplifies scheduling appointments, ordering medicines, and accessing medical services remotely. It offers a user-friendly interface, automated reminders, and prioritizes patient privacy. Efficient for doctors, convenient for patients.
 
-## Available Scripts
+The Online Doctor Appointment and Medicine System is an advanced web-based platform that revolutionizes the way patients interact with healthcare services. Its primary objective is to streamline and simplify the process of scheduling appointments with doctors and ordering prescribed medicines through an online platform. By leveraging the power of technology, this system aims to provide a convenient and efficient way for patients to access medical services remotely, eliminating the need for physical visits to healthcare facilities.
 
-In the project directory, you can run:
+The platform offers a user-friendly interface that ensures a seamless experience for patients. It allows them to search for doctors based on various criteria such as specialties, availability, and location. Patients can easily find the most suitable doctors according to their specific needs and preferences. Once they have selected a doctor, they can book appointments at their convenience, taking into account their own schedule and availability. To minimize the chances of missed appointments, the system sends automated reminders to patients, ensuring they are well-informed and prepared for their scheduled appointments.
 
-### `npm start`
+For doctors, the system provides comprehensive tools for managing their practices efficiently. They can easily access and manage their schedules, patient records. The platform enables doctors to review patient histories, which includes previous diagnoses and treatments, enabling them to make informed decisions and provide accurate diagnoses during remote consultations. Doctors can also prescribe medicines remotely through the system, offering a hassle-free experience for patients to obtain their prescribed medications.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The Online Doctor Appointment and Medicine System prioritize the privacy and security of patient data. It strictly adheres to confidentiality protocols and follows industry standards to ensure the protection of sensitive medical information. The system ensures that patient data is encrypted and accessible only to authorized healthcare professionals.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In summary, the Online Doctor Appointment and Medicine System is designed to provide patients with a convenient and reliable method to access medical services remotely. By facilitating online appointment scheduling and prescription management, the system enhances efficiency for doctors, allowing them to focus on patient care. This innovative platform aims to improve patient experiences, increase accessibility to healthcare services, and optimize the overall healthcare system.
