@@ -180,3 +180,6 @@ nav {
     color:white; /* Hover effect */
 }
   
+.nav__logo svg {
+    fill:#3685fb;
+}
