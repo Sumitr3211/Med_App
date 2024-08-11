@@ -1,12 +1,13 @@
 import React from "react";
 import './Navbar.css';
+import { Link } from "react-router-dom";
 
 function Navbar() {
     return(
         <div>
              <nav>
        
-       <div class="nav__logo">
+       <div className="nav__logo">
         
          <a href="/">
            StayHealthy 
@@ -29,32 +30,32 @@ function Navbar() {
          <span>.</span>
        </div>
       
-       <div class="nav__icon" >
+       <div className="nav__icon" >
         
-         <i class="fa fa-times fa fa-bars"></i>
+         <i className="fa fa-times fa fa-bars"></i>
        </div>
 
       
-       <ul class="nav__links active">
+       <ul className="nav__links active">
         
-         <li class="link">
+         <li className="link">
            <a href="../Landing_Page/LandingPage.html">Home</a>
          </li>
         
-         <li class="link">
+         <li className="link">
            <a href="/">Appointments</a>
          </li>
         
-         <li class="link">
-           <a href="../Sign Up/Sign_Up.html">
-             <button class="btn1">Sign Up</button>
-           </a>
+         <li className="link">
+           <Link to="/signup">
+             <button className="btn1">Sign Up</button>
+           </Link>
          </li>
         
-         <li class="link">
-           <a href="../Login/Login.html">
-             <button class="btn1">Login</button>
-           </a>
+         <li className="link">
+           <Link to="/login">
+             <button className="btn1">Login</button>
+           </Link>
          </li>
        </ul>
    </nav>
