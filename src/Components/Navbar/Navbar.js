@@ -53,7 +53,7 @@ const Navbar = () => {
                     <Link to="/">Home</Link>
                 </li>
                 <li className="link">
-                    <Link to="/appointment">Appointments</Link>
+                    <Link to="/">Appointments</Link>
                 </li>
                 <li className="link">
                     <Link to="/healthblog">Health Blog</Link>
@@ -61,7 +61,9 @@ const Navbar = () => {
                 <li className="link">
                     <Link to="/reviews">Reviews</Link>
                 </li>
-
+                <li className="link">
+                    <Link to="/instant-consultation">Instant Consultation</Link>
+                </li>
                 {isLoggedIn ? (
                     <>
                         <li className="link">
